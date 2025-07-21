@@ -97,10 +97,12 @@
             <div>លោកស្រី ហៀក ផានី</div>
           </div>
         </div>
-           class="text-yellow-400 text-xl md:text-3xl font-khmer-kh mt-20 md:w-1/2 text-center mx-auto"
-        >    យើងខ្ញុំមានកិត្តិយសសូមគោរពអញ្ជើញ
-         <div
-          class="flex justify-between items-center mt-15 font-khmer md:w-1/2 mx-auto"
+        <div  
+          class="text-yellow-400 text-xl md:text-3xl font-khmer-kh mt-20 md:w-1/2 text-center mx-auto"
+        > យើងខ្ញុំមានកិត្តិយសសូមគោរពអញ្ជើញ
+        </h2>
+        <div
+          class="flex justify-between text-start items-center mt-20 font-khmer text-yellow-200 text-xl md:text-3xl md:w-1/2 mx-auto"
         >
           សម្ដេច ទ្រង់ ឯកឧត្តម អ្នកឧកញ៉ា ឧកញ៉ា លោកជំទាវ លោក លោកស្រី អ្នកនាងកញ្ញា
           អញ្ជើញចូលរួមជាអធិបតី និងជាភ្ញៀវកិត្តិយស ដើម្បីប្រសិទ្ធពរជ័យ សិរីសួស្ដី
