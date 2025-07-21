@@ -102,6 +102,7 @@
           >
           យើងខ្ញុំមានកិត្តិយសសូមគោរពអញ្ចើញ
         </div>
+        <div
           class="flex justify-between items-center mt-15 font-khmer md:w-1/2 mx-auto"
           >
           សម្ដេច ទ្រង់ ឯកឧត្តម អ្នកឧកញ៉ា ឧកញ៉ា លោកជំទាវ លោក លោកស្រី អ្នកនាងកញ្ញា
