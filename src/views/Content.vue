@@ -25,28 +25,28 @@
           <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
             កូនប្រុសនាម
           </div>
-          <div class="text-2xl md:text-5xl mt-4 md:mt-10">ជន</div>
-          <div class="text-2xl md:text-5xl mt-2 md:mt-10">សុខមាន</div>
+          <div class="text-2xl md:text-5xl mt-4 md:mt-10">ភា</div>
+          <div class="text-2xl md:text-5xl mt-2 md:mt-10">គីមស្រ៊ៀ</div>
         </div>
         <div class="w-66 h-66 font-bold mt-10">
-          <img src="/src/assets/love1.png" alt="" />
+          <img src="/src/assets/K&M V1.png" alt="" />
         </div>
         <div>
           <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
             កូនស្រីនាម
           </div>
-          <div class="text-2xl md:text-5xl mt-4 md:mt-10">រ៉ាន់</div>
-          <div class="text-2xl md:text-5xl mt-2 md:mt-10">សុខណា</div>
+          <div class="text-2xl md:text-5xl mt-4 md:mt-10">ហុង</div>
+          <div class="text-2xl md:text-5xl mt-2 md:mt-10">ស៊ីវម៉េង</div>
         </div>
       </div>
       <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh mt-20">
         ដែលនឹងប្រព្រឹត្តទៅនៅ
       </div>
       <div class="text-3xl md:text-5xl mt-4 md:mt-10 font-khmer">
-        ថ្ងៃពុធ ទី២៨ ខែមករា ឆ្នាំ២០២៦
+        ថ្ងៃអាទិត្យ ទី២ ខែវិច្ឆិកា ឆ្នាំ២០២៥
       </div>
       <div class="text-yellow-500 text-xl md:text-3xl font-khmer-kh mt-10">
-        ទីតាំង ភូមិគោកខ្ពស់ ឃុំពេជសារ ស្រុកកោះអណ្តែត ខេត្តតាកែវ
+        ទីតាំង The Premier Centre Sen Sok, Building B
       </div>
       <button
         class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full"
@@ -54,7 +54,7 @@
         <div class="text-2xl md:text-4xl">បើកផែនទី</div>
 
         <svg
-          xmlns="http://www.w3.org/2000/svg"
+          xmlns="https://maps.app.goo.gl/7W7nwJDNxiXQaByr9/svg"
           width="30"
           height="30"
           viewBox="0 0 256 367"
@@ -89,12 +89,12 @@
           class="flex justify-between text-start items-center mt-20 font-khmer text-yellow-200 text-xl md:text-3xl md:w-1/2 mx-auto"
         >
           <div>
-            <div>លោក សៅ សោភណ្ឌ</div>
-            <div>លោកស្រី សន ឡាយហួយ</div>
+            <div>លោក ប្រាក់ ភា</div>
+            <div>លោកស្រី ស្រស់ សោភា</div>
           </div>
           <div>
-            <div>លោក អ៊ុក ចន្នី</div>
-            <div>លោកស្រី ឈួន ស្រី</div>
+            <div>លោក អាន សុភាព</div>
+            <div>លោកស្រី ហៀក ផានី</div>
           </div>
         </div>
         <div  
@@ -111,25 +111,25 @@
             <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
               កូនប្រុសនាម
             </div>
-            <div class="text-2xl md:text-5xl mt-4 md:mt-10">ជន</div>
-            <div class="text-2xl md:text-5xl mt-2 md:mt-10">សុខមាន</div>
+            <div class="text-2xl md:text-5xl mt-4 md:mt-10">ភា</div>
+            <div class="text-2xl md:text-5xl mt-2 md:mt-10">គីមស៊្រៀ</div>
           </div>
           <div class="w-66 h-66 font-bold mt-10">
-            <img src="/src/assets/love1.png" alt="" />
+            <img src="/src/assets/K&M V1.png" alt="" />
           </div>
           <div>
             <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
               កូនស្រីនាម
             </div>
-            <div class="text-2xl md:text-5xl mt-4 md:mt-10">រ៉ាន់</div>
-            <div class="text-2xl md:text-5xl mt-2 md:mt-10">សុខណា</div>
+            <div class="text-2xl md:text-5xl mt-4 md:mt-10">ហុង</div>
+            <div class="text-2xl md:text-5xl mt-2 md:mt-10">ស៊ីវម៉េង</div>
           </div>
         </div>
         <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh mt-10">
           ដែលនឹងប្រព្រឹត្តទៅ
         </div>
         <div class="text-3xl md:text-5xl mt-4 md:mt-10 font-khmer">
-          ថ្ងៃពុធ ទី២៨ ខែមករា ឆ្នាំ២០២៦
+          ថ្ងៃអាទិត្យ ទី២ ខែវិច្ឆិកា ឆ្នាំ២០២៥
         </div>
         <button
           class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full mx-auto"
@@ -215,15 +215,6 @@
               "
               class="cursor-pointer mr-10"
             >
-              ២៧ មករា
-            </div>
-            <div
-              @click="selectedDay = 'day23'"
-              :class="
-                selectedDay === 'day23' ? 'text-black bg-white w-40 h-10 md:w-60 items-center flex justify-center rounded-lg' : ''
-              "
-              class="cursor-pointer mr-10"
-            >
               ២៨ មករា
             </div>
           </div>
@@ -231,42 +222,6 @@
           <!-- Display Information -->
           <div class="mt-5">
             <p v-if="selectedDay === 'day22'">
-              <h2 class="text-3xl md:text-4xl mt-20 font-khmer text-yellow-200">
-               កម្មវិធីពេលរសៀល
-              </h2>
-              <div class="mt-5">
-                <div class="border-4 border-yellow-500 w-12 h-12 rounded-full m-auto"></div>
-                <div class="border bg-yellow-500 border-yellow-500 w-1 h-12 m-auto"></div>
-              </div>
-              <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង២:០០រសៀល
-              </h2>
-              <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
-               ពិធីក្រុងពាលី
-              </h2>
-              <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
-              <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៣:០០រសៀល
-              </h2>
-              <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
-               ពិធីសូត្រមន្តចម្រើនព្រះបរិត្ត
-              </h2>
-              <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
-              <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៥:០០រសៀល
-              </h2>
-              <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
-                ពិធីកាត់ខាន់ស្លា
-              </h2>
-              <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
-              <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-                ម៉ោង៦:០០រសៀល
-              </h2>
-              <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
-               អញ្ជើញភ្ញៀវកិត្តិយសសេពសោយអាហារ
-              </h2>
-            </p>
-            <p v-if="selectedDay === 'day23'">
               <h2 class="text-3xl md:text-4xl mt-20 font-khmer text-yellow-200">
                កម្មវិធីពេលព្រឹក
               </h2>
