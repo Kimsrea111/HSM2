@@ -43,10 +43,10 @@
         ដែលនឹងប្រព្រឹត្តទៅនៅ
       </div>
       <div class="text-3xl md:text-5xl mt-4 md:mt-10 font-khmer">
-        ថ្ងៃអាទិត្យ ទី២ ខែវិច្ឆិកា ឆ្នាំ២០២៥
+        ថ្ងៃអាទិត្យ ទី០២ ខែវិច្ឆិកា ឆ្នាំ២០២៥
       </div>
       <div class="text-yellow-500 text-xl md:text-3xl font-khmer-kh mt-10">
-        ទីតាំង The Premier Centre Sen Sok, Building B
+        ទីតាំង/Location: The Premier Centre Sen Sok, Building B
       </div>
       <button
         class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full"
@@ -97,12 +97,15 @@
             <div>លោកស្រី ហៀក ផានី</div>
           </div>
         </div>
-        <div  
-          class="text-yellow-400 text-xl md:text-3xl font-khmer-kh mt-20 md:w-1/2 text-center mx-auto"
+           class="text-yellow-400 text-xl md:text-3xl font-khmer-kh mt-20 md:w-1/2 text-center mx-auto"
+        >    យើងខ្ញុំមានកិត្តិយសសូមគោរពអញ្ជើញ
+         <div
+          class="flex justify-between items-center mt-15 font-khmer md:w-1/2 mx-auto"
         >
           សម្ដេច ទ្រង់ ឯកឧត្តម អ្នកឧកញ៉ា ឧកញ៉ា លោកជំទាវ លោក លោកស្រី អ្នកនាងកញ្ញា
           អញ្ជើញចូលរួមជាអធិបតី និងជាភ្ញៀវកិត្តិយស ដើម្បីប្រសិទ្ធពរជ័យ សិរីសួស្ដី
           ជ័យមង្គល ក្នុងពិធីរៀបអាពាហ៍ពិពាហ៍ កូនប្រុស-កូនស្រី របស់យើងខ្ញុំ
+
         </div>
         <div
           class="flex justify-between items-center mt-10 font-khmer md:w-1/2 mx-auto"
@@ -129,7 +132,7 @@
           ដែលនឹងប្រព្រឹត្តទៅ
         </div>
         <div class="text-3xl md:text-5xl mt-4 md:mt-10 font-khmer">
-          ថ្ងៃអាទិត្យ ទី២ ខែវិច្ឆិកា ឆ្នាំ២០២៥
+          ថ្ងៃអាទិត្យ ទី០២ ខែវិច្ឆិកា ឆ្នាំ២០២៥
         </div>
         <button
           class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full mx-auto"
@@ -162,7 +165,7 @@
         <h2
           class="text-4xl md:text-6xl mt-20 font-khmer text-yellow-200 mb-5 md:mb-20"
         >
-          វិចិត្រសាល
+          វិចិត្រសាល/Photo Gallery
         </h2>
         <div class="flex justify-center gap-2 md:gap-5">
           <div>
@@ -201,7 +204,7 @@
         <h2
           class="text-4xl md:text-6xl mt-20 font-khmer text-yellow-200 mb-5 md:mb-20"
         >
-          កម្មវិធីមង្គលអាពាហ៍ពិពាហ៍
+          របៀបវារៈកម្មវិធី/Event Agenda
         </h2>
         <div class="p-1">
           <!-- Category Selection -->
@@ -230,45 +233,57 @@
                 <div class="border bg-yellow-500 border-yellow-500 w-1 h-12 m-auto"></div>
               </div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៦:៣០ព្រឹក
+               ម៉ោង៦:៣០ នាទីព្រឹក
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
-               ជួបជុំភ្ញៀវកិត្តិយសទាំងអស់ដើម្បីរៀបហែជំនូន
+               ជួបជុំភ្ញៀវកិត្តិយសទាំងអស់ដើម្បីរៀបចំពិធីហែជំនូន
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៧:០០ព្រឹក
+               ម៉ោង៧:០០ នាទីព្រឹក
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
-               ពិធីហែជំនូន (កំណត់)
+               ពិធីហែជំនូន
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៨:៣០ព្រឹក
+               ម៉ោង៧:៣០ នាទីព្រឹក
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                ពិធីបំពាក់ចិញ្ចៀន
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៩:០០ព្រឹក
+               ម៉ោង៨:៣០ នាទីព្រឹក
+              </h2>
+              <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
+               ពិធីសូត្រមន្តចម្រើនព្រះបរិត្ត
+              </h2>
+              <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
+              <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
+               ម៉ោង៩:៣០ នាទីព្រឹក
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                ពិធីកាត់សក់បង្កក់សិរី
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង១០:០០ព្រឹក
+               ម៉ោង១០:៣០ នាទីព្រឹក
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
-               ពិធីក្រាបសំពះផ្ទឹម ចងដៃ និងបាចផ្កាស្លា
+                ពិធីសំពះផ្ទឹមគួចចំណងដៃ បាចផ្កាស្លា
               </h2>
-              <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
-              <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង១២:០០ថ្ងៃត្រង់
+              <h2 class="text-3xl md:text-4xl mt-10 font-khmer text-yellow-200">
+               ម៉ោង១១:៣០ នាទីថ្ងៃត្រង់
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
-                អញ្ជើញភ្ញៀវកិត្តិយសពិសារភោជនាហារថ្ងៃត្រង់
+                អញ្ជើញភ្ញៀវកិត្តិយសពិសាអាហារថ្ងៃត្រង់
+              </h2>
+              <h2 class="text-3xl md:text-4xl mt-10 font-khmer text-yellow-200">
+               ម៉ោង១២:០០ នាទីថ្ងៃត្រង់
+              </h2>
+              <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
+                ពិធីចាក់ទឹកតែ
               </h2>
               <h2 class="text-3xl md:text-4xl mt-10 font-khmer text-yellow-200">
                កម្មវិធីពេលល្ងាច
@@ -278,10 +293,10 @@
                 <div class="border bg-yellow-500 border-yellow-500 w-1 h-12 m-auto"></div>
               </div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៤:០០ល្ងាចតទៅ
+               ម៉ោង៥:០០ល្ងាចតទៅ
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
-                អញ្ជើញភ្ញៀវកិត្តិយសពិសារភោជនាហារដោយមេត្រីភាព
+                អញ្ជើញភ្ញៀវកិត្តិយសពិសារភោជនាហារដោយមេត្រីភាពនៅដឹ ព្រេមៀ សេនធ័រ សែនសុខ អគារB
               </h2>
               <div class="border  border-yellow-500 mt-10 m-auto rounded-2xl py-5">
                 <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
