@@ -168,14 +168,14 @@
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/img1.png"
+              src="/src/assets/PKS2.png"
               alt=""
             />
           </div>
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/img2.png"
+              src="/src/assets/PKS3.png"
               alt=""
             />
           </div>
@@ -184,14 +184,14 @@
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/img3.png"
+              src="/src/assets/PKS4.png"
               alt=""
             />
           </div>
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/img4.png"
+              src="/src/assets/PKS5.png"
               alt=""
             />
           </div>
