@@ -215,7 +215,7 @@
               "
               class="cursor-pointer mr-10"
             >
-              ២៨ មករា
+              ០២ វិច្ឆិកា ឆ្នា២០២៥
             </div>
           </div>
 
