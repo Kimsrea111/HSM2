@@ -99,8 +99,6 @@
         </div>
         <div  
           class="text-yellow-400 text-xl md:text-3xl font-khmer-kh mt-20 md:w-1/2 text-center mx-auto"
-        >
-          class="flex justify-between items-center mt-30 font-khmer md:w-1/2 mx-auto"        >
           យើងខ្ញុំមានកិត្តិយសសូមគោរពអញ្ជើញ
         >          
           សម្ដេច ទ្រង់ ឯកឧត្តម អ្នកឧកញ៉ា ឧកញ៉ា លោកជំទាវ លោក លោកស្រី អ្នកនាងកញ្ញា
