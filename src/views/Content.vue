@@ -161,7 +161,7 @@
       </section>
       <section class="mt-40">
         <h2
-          class="text-4xl md:text-6xl mt-20 font-khmer text-yellow-200 mb-5 md:mb-20"
+          class="text-3xl md:text-6xl mt-20 font-khmer text-yellow-200 mb-5 md:mb-20"
         >
           វិចិត្រសាល/Photo Gallery
         </h2>
@@ -207,7 +207,7 @@
         <div class="p-1">
           <!-- Category Selection -->
           <div
-            class="flex justify-center items-center text-center w-96 md:w-[600px] bg-yellow-200 p-1 rounded-lg font-khmer text-md md:text-2xl  text-gray-400"
+            class="flex justify-center items-center text-center w-96 md:w-[600px] bg-yellow-200 p-3 rounded-lg font-khmer text-md md:text-2xl  text-gray-400"
           >
             <div
               @click="selectedDay = 'day22'"
