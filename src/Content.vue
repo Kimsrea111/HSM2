@@ -54,9 +54,7 @@
       <button
         class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full"
       >
-        <div class="text-2xl md:text-4xl">បើកផែនទី</div>
-
-      @click="https://maps.app.goo.gl/sLFTR7SiY276YPVF6/svg"      
+        <div class="text-2xl md:text-4xl">បើកផែនទី</div>@click="https://maps.app.goo.gl/sLFTR7SiY276YPVF6/svg"      
       >
         <svg
           xmlns="https://maps.app.goo.gl/sLFTR7SiY276YPVF6/svg"
