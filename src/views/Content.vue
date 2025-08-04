@@ -46,7 +46,8 @@
         ថ្ងៃអាទិត្យ ទី០២ ខែវិច្ឆិកា ឆ្នាំ២០២៥
       </div>
       <div class="text-yellow-500 text-xl md:text-3xl font-khmer-kh mt-10">
-        ទីតាំង/Location: នៅដឹព្រីមៀ សេនធ័រ សែនសុខ (អគារB) រាជធានីភ្នំពេញ/ The Premier Centre Sen Sok, Building B, Phnom Penh
+        ទីតាំង/Location: នៅដឹព្រីមៀ សេនធ័រ សែនសុខ (អគារB) រាជធានីភ្នំពេញ
+        / The Premier Centre Sen Sok, Building B, Phnom Penh
       </div>
       <button
         class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full"
@@ -202,21 +203,17 @@
         <h2
           class="text-4xl md:text-6xl mt-20 font-khmer text-yellow-200 mb-5 md:mb-20"
         >
-          របៀបវារៈកម្មវិធី/Event Agenda
+          របៀបវារៈកម្មវិធី/ Event Agenda
         </h2>
         <div class="p-1">
           <!-- Category Selection -->
           <div
             class="flex justify-center items-center text-center w-96 md:w-[600px] bg-yellow-200 p-3 rounded-lg font-khmer text-md md:text-2xl  text-gray-400"
           >
-            <div
-              @click="selectedDay = 'day22'"
-              :class="
-                selectedDay === 'day22' ? 'text-black bg-white w-40 h-10 md:w-60 items-center flex justify-center rounded-lg' : ''
-              "
-              class="cursor-pointer mr-10"
+          <div
+      ​​      class="flex justify-center items-center text-center w-96 md:w-[600px] bg-yellow-200 p-3 rounded-lg font-khmer text-md md:text-xl  text-gray-400"
             >
-              ០២ វិច្ឆិកា ឆ្នា២០២៥
+              ថ្ងៃទី០២ ខែវិច្ឆិកា ឆ្នាំ២០២៥
             </div>
           </div>
 
