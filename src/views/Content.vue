@@ -47,7 +47,8 @@
       </div>
       <div class="text-yellow-500 text-xl md:text-3xl font-khmer-kh mt-10">
         ទីតាំង/Location: នៅដឹព្រីមៀ សេនធ័រ សែនសុខ (អគារB) រាជធានីភ្នំពេញ
-        </div>
+      </div>
+      <div class="text-yellow-500 text-xl md:text-3xl font-khmer-kh mt-10">
         / The Premier Centre Sen Sok, Building B, Phnom Penh
       </div>
       <button
