@@ -202,24 +202,12 @@
             />
           </div>
         </div>
-      </section>
-      <section class="mt-40">
         <h2
           class="text-4xl md:text-6xl mt-20 font-khmer text-yellow-200 mb-5 md:mb-20"
         >
           របៀបវារៈកម្មវិធី/ Event Agenda
-        </h2>
-        <div class="p-1">
-          <!-- Category Selection -->
-          <div
-            class="flex justify-center items-center text-center w-96 md:w-[600px] bg-yellow-200 p-3 rounded-lg font-khmer text-md md:text-2xl  text-gray-400"
-          >
-            <div
-              @click="selectedDay = 'day22'"
-              :class="
-                selectedDay === 'day22' ? 'text-black bg-white w-40 h-10 md:w-60 items-center flex justify-center rounded-lg' : ''
-              "
-              class="cursor-pointer mr-10"
+        </h2
+        class="text-3xl md:text-4xl mt-20 font-khmer text-yellow-200 mb-5 md:mb-20"
             >
               ថ្ងៃទី០២ ខែវិច្ឆិកា ឆ្នាំ២០២៥
             </div>
