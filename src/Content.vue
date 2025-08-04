@@ -56,8 +56,10 @@
       >
         <div class="text-2xl md:text-4xl">បើកផែនទី</div>
 
+      @click="https://maps.app.goo.gl/sLFTR7SiY276YPVF6/svg"      
+      >
         <svg
-          xmlns="https://maps.app.goo.gl/7W7nwJDNxiXQaByr9/svg"
+          xmlns="https://maps.app.goo.gl/sLFTR7SiY276YPVF6/svg"
           width="30"
           height="30"
           viewBox="0 0 256 367"
