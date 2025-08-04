@@ -46,18 +46,30 @@
         ថ្ងៃអាទិត្យ ទី០២ ខែវិច្ឆិកា ឆ្នាំ២០២៥
       </div>
       <div class="text-yellow-500 text-xl md:text-3xl font-khmer-kh mt-10">
-        ទីតាំង/Location: នៅដឹព្រីមៀ សេនធ័រ សែនសុខ (អគារB) រាជធានីភ្នំពេញ
-      </div>
+        ទីតាំង/Location: នៅដឹព្រីមៀ សេនធ័រ សែនសុខ (អគារB) រាជធានីភ្នំពេញ/
+      </div>  
       <div class="text-yellow-500 text-xl md:text-3xl font-khmer-kh mt-10">
-        / The Premier Centre Sen Sok, Building B, Phnom Penh
-      </div>
-      <button
-        class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full"
-      >
-        <div class="text-2xl md:text-4xl">បើកផែនទី</div>
+        The Premier Centre Sen Sok, Building B, Phnom Penh
+       <div>
+    <button
+      @click="openMap"
+      class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full"
+    >
+      <div class="text-2xl md:text-4xl">បើកផែនទី</div>
+    </button>
+  </div>
 
+<script>
+export default {
+  methods: {
+    openMap() {
+      window.open("https://maps.app.goo.gl/sLFTR7SiY276YPVF6", "_blank");
+    }
+  }
+};
+</script>
         <svg
-          xmlns="https://maps.app.goo.gl/7W7nwJDNxiXQaByr9/svg"
+          xmlns="https://maps.app.goo.gl/sLFTR7SiY276YPVF6/svg"
           width="30"
           height="30"
           viewBox="0 0 256 367"
