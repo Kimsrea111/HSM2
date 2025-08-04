@@ -46,7 +46,7 @@
         ថ្ងៃអាទិត្យ ទី០២ ខែវិច្ឆិកា ឆ្នាំ២០២៥
       </div>
       <div class="text-yellow-500 text-xl md:text-3xl font-khmer-kh mt-10">
-        ទីតាំង/Location: The Premier Centre Sen Sok, Building B
+        ទីតាំង/Location: នៅដឹព្រីមៀ សេនធ័រ សែនសុខ (អគារB) រាជធានីភ្នំពេញ/ The Premier Centre Sen Sok, Building B, Phnom Penh
       </div>
       <button
         class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full"
@@ -241,14 +241,14 @@
                ម៉ោង៧:០០ នាទីព្រឹក
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
-               ពិធីហែជំនូន
+               ពិធីហែជំនូនចូលរោងជ័យ
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
                ម៉ោង៧:៣០ នាទីព្រឹក
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
-               ពិធីបំពាក់ចិញ្ចៀន
+               ពិធីជាវខាន់ស្លា
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
@@ -266,10 +266,10 @@
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង១០:៣០ នាទីព្រឹក
+               ម៉ោង១០:០០ នាទីព្រឹក
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
-                ពិធីសំពះផ្ទឹមគួចចំណងដៃ បាចផ្កាស្លា
+                ពិធីសំពះផ្ទឹម សែនចងដៃ
               </h2>
               <h2 class="text-3xl md:text-4xl mt-10 font-khmer text-yellow-200">
                ម៉ោង១១:៣០ នាទីថ្ងៃត្រង់
@@ -278,10 +278,6 @@
                 អញ្ជើញភ្ញៀវកិត្តិយសពិសាអាហារថ្ងៃត្រង់
               </h2>
               <h2 class="text-3xl md:text-4xl mt-10 font-khmer text-yellow-200">
-               ម៉ោង១២:០០ នាទីថ្ងៃត្រង់
-              </h2>
-              <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
-                ពិធីចាក់ទឹកតែ
               </h2>
               <h2 class="text-3xl md:text-4xl mt-10 font-khmer text-yellow-200">
                កម្មវិធីពេលល្ងាច
